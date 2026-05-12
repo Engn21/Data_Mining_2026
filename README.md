@@ -6,4 +6,3 @@
 
 There are two projects that has been implemented during this course. You can find their detailed information in their files.
 
-Engin Samet Dede
