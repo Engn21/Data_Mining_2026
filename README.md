@@ -1,4 +1,4 @@
-# Data Mining 2026 — Mini Project 1
+# Data Mining 2026 Projects
 
 **Course:** Data Mining  
 **Term:** Spring Semester 2026  
